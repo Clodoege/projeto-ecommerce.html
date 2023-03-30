@@ -1,0 +1,574 @@
+INDEX
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+       <nav>
+           <a href="feminino.html">FEMININO</a>
+           <a href="masculino.html">MASCULINO</a>
+           <a href="sobre_nos.html">SOBRE NÓS</a>
+           <a href="fale_conosco.html">FALE CONOSCO</a>
+           <a href="login_usuario.html">LOGIN</a>
+
+
+       </nav>
+   </header>
+   <section>
+       <!--várias div com produtos-->
+       <div>
+
+
+           <h3>Camiseta feminina</h3>
+           <a href="feminino.html"><img src="imagens/IMG_20210901_143027.jpg" width="200"></a>
+           <a href="index.html"><img src="imagens/IMG_20220430_124841.jpg" width="200"></a>
+
+
+           <h3>Camiseta masculina</h3>
+           <a href="index.html"><img src="imagens/original_e990e637-1913-40a4-90fd-1fde36029446_IMG_20220809_131744.jpg
+               " width="200"></a>
+
+
+           <h3>Calça feminina</h3>
+          
+           <h3>Calça masculina</h3>
+          
+           <h3>Blusa moletom feminina</h3>
+          
+           <h3>Blusa moletom masculina</h3>
+
+
+
+
+       </div>
+   </section>
+
+
+
+
+
+
+
+
+
+
+
+
+   <footer>
+
+
+       <section>
+           <h2>Mapa do site</h2>
+           <ul>
+               <li><a href="index.html">Índice</a></li>
+               <li><a href="login_usuario.html">Login usuário</a></li>
+               <li><a href="login_administrador.html">Login administrador</a></li>
+               <li><a href="fale_conosco.html">Fale conosco</a></li>
+               <li><a href="sobre_nos.html">Sobre nós</a></li>
+           </ul>
+       </section>
+
+
+       <address>
+           Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+           Visite-nos:<br>
+           Loja Badulaque<br>
+           Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+           84064-020<br>
+           Contato 42 32397524
+       </address>
+       <h2>Estamos aqui</h2>
+       <map><iframe
+               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+               width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+               referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+   </footer>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+login administrador
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+
+
+FALE CONOSCO
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+       <h2>Fale conosco</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <footer>
+
+
+           <section>
+               <h2>Mapa do site</h2>
+               <ul>
+                   <li><a href="index.html">Índice</a></li>
+                   <li><a href="login_usuario.html">Login usuário</a></li>
+                   <li><a href="login_administrador.html">Login administrador</a></li>
+                   <li><a href="fale_conosco.html">Fale conosco</a></li>
+                   <li><a href="sobre_nos.html">Sobre nós</a></li>
+               </ul>
+           </section>
+  
+           <address>
+               Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+               Visite-nos:<br>
+               Loja Badulaque<br>
+               Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+               84064-020<br>
+               Contato 42 32397524
+           </address>
+           <h2>Estamos aqui</h2>
+           <map><iframe
+                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+                   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                   referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+       </footer>
+  
+   </body>
+  
+   </html>
+
+
+SOBRE NÓS
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+       <h2>Sobre nós</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <footer>
+
+
+           <section>
+               <h2>Mapa do site</h2>
+               <ul>
+                   <li><a href="index.html">Índice</a></li>
+                   <li><a href="login_usuario.html">Login usuário</a></li>
+                   <li><a href="login_administrador.html">Login administrador</a></li>
+                   <li><a href="fale_conosco.html">Fale conosco</a></li>
+                   <li><a href="sobre_nos.html">Sobre nós</a></li>
+               </ul>
+           </section>
+  
+           <address>
+               Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+               Visite-nos:<br>
+               Loja Badulaque<br>
+               Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+               84064-020<br>
+               Contato 42 32397524
+           </address>
+           <h2>Estamos aqui</h2>
+           <map><iframe
+                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+                   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                   referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+       </footer>
+  
+   </body>
+  
+   </html>
+LOGIN USUÁRIO
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+       <h2>Faça seu login ou cadastre-se</h2>
+
+
+      
+
+
+
+
+   </header>
+
+
+   <section>
+       <form>
+           <input type="text" placeholder="login usuário">
+           <input type="password">
+
+
+
+
+
+
+       </form>
+   </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <footer>
+
+
+       <section>
+           <h2>Mapa do site</h2>
+           <ul>
+               <li><a href="index.html">Índice</a></li>
+               <li><a href="login_usuario.html">Login usuário</a></li>
+               <li><a href="login_administrador.html">Login administrador</a></li>
+               <li><a href="fale_conosco.html">Fale conosco</a></li>
+               <li><a href="sobre_nos.html">Sobre nós</a></li>
+           </ul>
+       </section>
+
+
+       <address>
+           Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+           Visite-nos:<br>
+           Loja Badulaque<br>
+           Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+           84064-020<br>
+           Contato 42 32397524
+       </address>
+       <h2>Estamos aqui</h2>
+       <map><iframe
+               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+               width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+               referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+   </footer>
+
+
+</body>
+
+
+</html>
+
+
+
+
+MASCULINO
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+       <h2>Masculino</h2>
+       <div>
+           <h3>Camiseta masculina</h3>
+           <a href="index.html"><img src="imagens/original_e990e637-1913-40a4-90fd-1fde36029446_IMG_20220809_131744.jpg
+               " width="200"></a>
+
+
+       </div>
+
+
+
+
+
+
+
+
+
+
+       <footer>
+
+
+           <section>
+               <h2>Mapa do site</h2>
+               <ul>
+                   <li><a href="index.html">Índice</a></li>
+                   <li><a href="login_usuario.html">Login usuário</a></li>
+                   <li><a href="login_administrador.html">Login administrador</a></li>
+                   <li><a href="fale_conosco.html">Fale conosco</a></li>
+                   <li><a href="sobre_nos.html">Sobre nós</a></li>
+               </ul>
+           </section>
+  
+           <address>
+               Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+               Visite-nos:<br>
+               Loja Badulaque<br>
+               Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+               84064-020<br>
+               Contato 42 32397524
+           </address>
+           <h2>Estamos aqui</h2>
+           <map><iframe
+                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+                   width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                   referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+       </footer>
+  
+   </body>
+  
+   </html>
+
+
+FEMININO
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+
+<head>
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width" />
+   <title>Loja da Clo</title>
+</head>
+
+
+<body>
+
+
+
+
+   <header>
+       <!--no lugar de index.html na linha 15 pode ser colocado uma/-->
+       <a href="index.html"><img src="imagens\logo_badulaque.jpg" width="300"></a>
+       <h1>Loja da Clo</h1>
+
+
+       <h2>Feminino</h2>
+      
+       <div>
+
+
+           <h3>Camiseta feminina</h3>
+           <a href="feminino.html"><img src="imagens/IMG_20210901_143027.jpg" width="200"></a>
+           <a href="index.html"><img src="imagens/IMG_20220430_124841.jpg" width="200"></a>
+
+
+
+
+       </div>
+
+
+   </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <footer>
+
+
+       <section>
+           <h2>Mapa do site</h2>
+           <ul>
+               <li><a href="index.html">Índice</a></li>
+               <li><a href="login_usuario.html">Login usuário</a></li>
+               <li><a href="login_administrador.html">Login administrador</a></li>
+               <li><a href="fale_conosco.html">Fale conosco</a></li>
+               <li><a href="sobre_nos.html">Sobre nós</a></li>
+           </ul>
+       </section>
+
+
+       <address>
+           Escrito por <a href="mailto:clodoege@gmail.com">Clodoege Helena Martinkoski</a>.<br>
+           Visite-nos:<br>
+           Loja Badulaque<br>
+           Rua Andorinha, 458 - Chapada, Ponta Grossa - PR<br>
+           84064-020<br>
+           Contato 42 32397524
+       </address>
+       <h2>Estamos aqui</h2>
+       <map><iframe
+               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.3493441908745!2d-50.22418878499331!3d-25.05614598396193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81756e9f581e3%3A0x724deb2bc027c5a2!2sLoja%20Badulaque!5e0!3m2!1spt-BR!2sbr!4v1679614008921!5m2!1spt-BR!2sbr"
+               width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+               referrerpolicy="no-referrer-when-downgrade"></iframe></map>
+   </footer>
+
+
+</body>
+
+
+</html>
+
